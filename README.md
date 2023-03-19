@@ -1,4 +1,4 @@
-# Load-Server-Balancer-project
+# Load-Balancer-Server-project
 
 (Load balancing)
 
