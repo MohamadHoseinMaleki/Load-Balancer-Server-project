@@ -1,5 +1,4 @@
-# Load-Balancer-Server-project
-
+# Load-Balancer-Server
 (Load balancing)
 
 its part of work of Spring Boot and Angular Full Stack Development 
